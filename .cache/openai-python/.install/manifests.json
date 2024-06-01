@@ -1,0 +1,9 @@
+{
+  "installPath": "/home/runner/OpenAI-Python-GPT-35-Turbo/.cache/openai-python/.install",
+  "binaries": {
+    "marzano": {
+      "name": "marzano",
+      "release": "1dac0400-cabc-4791-b684-240467eb2e7e"
+    }
+  }
+}
